@@ -1,0 +1,6 @@
+.container {
+    width: 900px !important
+}
+.contact-info p {
+    margin-bottom: 5px; /* Reduce the space between the lines */
+}

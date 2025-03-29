@@ -1,0 +1,16 @@
+baseURL = 'https://lyxhomepage.github.io/'
+languageCode = 'en-us'
+title = 'LiuYixiu'
+
+
+
+
+############################ Markup ##############################
+[markup]
+[markup.goldmark.renderer]
+unsafe = true
+
+
+
+
+
