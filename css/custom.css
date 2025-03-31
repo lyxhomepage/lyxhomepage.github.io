@@ -22,6 +22,11 @@
     margin-top: 5rem;
 }
 
+.page-title-wrap1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
 
 /*手机*/
 @media screen and (max-width:767px) {

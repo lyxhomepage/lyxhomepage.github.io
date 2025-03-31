@@ -1,4 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>LiuYixiu</title><link>https://lyxhomepage.github.io/</link><description>Recent content on LiuYixiu</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 28 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://lyxhomepage.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Academic</title><link>https://lyxhomepage.github.io/pages/academic/</link><pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate><guid>https://lyxhomepage.github.io/pages/academic/</guid><description>&lt;p>academic&lt;/p></description></item><item><title>Biography</title><link>https://lyxhomepage.github.io/pages/bio/</link><pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate><guid>https://lyxhomepage.github.io/pages/bio/</guid><description>&lt;h3 id="个人简介">个人简介&lt;/h3>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>LiuYixiu</title><link>https://lyxhomepage.github.io/</link><description>Recent content on LiuYixiu</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 28 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://lyxhomepage.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Academic</title><link>https://lyxhomepage.github.io/pages/academic/</link><pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate><guid>https://lyxhomepage.github.io/pages/academic/</guid><description>&lt;ul>
+&lt;li>2025.03，IEEE Transactions on Consumer Electronics期刊special issue客座编辑。&lt;/li>
+&lt;li>2025.02，参加AAAI学术会议展示海报，地点：Philadelphia, Pennsylvania, USA。&lt;/li>
+&lt;li>2024.12，获IEEE Outstanding Paper Award, HPCC会议杰出论文奖。&lt;/li>
+&lt;li>2024.10, 中国科协党校“领航计划”青年科技领军人才国情研修活动 (山东班)。&lt;/li>
+&lt;li>2024.04~2024.09，负责组织3期中国科协主办的中国科技会堂论坛，邀请院士专家6位，顶级科学家或成功企业家6位，并形成专报。&lt;/li>
+&lt;li>2019.06，《低光照条件下（半）监督人脸检测》，CVPR Workshop竞赛亚军。&lt;/li>
+&lt;li>2019.06，《雨滴遮挡下的零样本目标检测》，CVPR Workshop竞赛冠军。&lt;/li>
+&lt;/ul></description></item><item><title>Biography</title><link>https://lyxhomepage.github.io/pages/bio/</link><pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate><guid>https://lyxhomepage.github.io/pages/bio/</guid><description>&lt;h3 id="个人简介">个人简介&lt;/h3>
 &lt;p>刘一秀，男，1994.03，网络空间安全系主任，挂职中国科协培训和人才服务中心项目主管（时间：2024.04-2024.09）。近五年来，在TIP、TCSVT、TGRS等中科院一区/Top期刊上发表高水平学术论文近20篇，申请发明专利10余项，授权2项。现主持国家青年科学基金项目1项、浙江省重点研发计划尖兵项目子课题1项，横向项目1项。&lt;/p>
 &lt;h3 id="教育经历">教育经历&lt;/h3>
 &lt;p>2018.10-2020.10，加州大学河滨分校，国家公派联合培养&lt;br>
@@ -7,9 +15,49 @@
 &lt;h3 id="工作经历">工作经历&lt;/h3>
 &lt;p>2022.03 - 至今，杭州电子科技大学，网络空间安全学院，讲师。&lt;br>
 2024.04 - 2024.09，中国科协培训与人才服务中心，项目主管&lt;/p></description></item><item><title>Courses</title><link>https://lyxhomepage.github.io/pages/courses/</link><pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate><guid>https://lyxhomepage.github.io/pages/courses/</guid><description>&lt;h3 id="教学与课程">教学与课程&lt;/h3>
-&lt;p>《机器学习理论与实践》、《数字图像处理》、《Python语言程序设计实践》、《认识实习》&lt;/p></description></item><item><title>Links</title><link>https://lyxhomepage.github.io/pages/links/</link><pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate><guid>https://lyxhomepage.github.io/pages/links/</guid><description>&lt;p>Links&lt;/p></description></item><item><title>News</title><link>https://lyxhomepage.github.io/pages/news/</link><pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate><guid>https://lyxhomepage.github.io/pages/news/</guid><description>&lt;p>news&lt;/p></description></item><item><title>Project</title><link>https://lyxhomepage.github.io/pages/project/</link><pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate><guid>https://lyxhomepage.github.io/pages/project/</guid><description>&lt;p>project&lt;/p></description></item><item><title>Publications</title><link>https://lyxhomepage.github.io/pages/publications/</link><pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate><guid>https://lyxhomepage.github.io/pages/publications/</guid><description>&lt;p>在计算机科学领域发表SCI期刊及国际会议论文20余篇，代表作10篇如下：&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>《人工智能与机器学习》：专业必修课，在对核心知识单元进行综合概述的基础上，专业地讲解其中经典的和重要的基本概念、基本技术和基本原理，进而建立人工智能和机器学习的基本框架，并为人工智能和机器学习学科及其分支的深入学习和研究探索奠定初步基础。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>《机器学习基础与实践》：专业必修课，重点介绍了机器学习中的核心算法和理论，使学生通过理论学习掌握机器学习中的经典理论，了解当前最新发展，并学会针对各自学科的具体问题设计算法，并进一步展开基于python的计算思维编程实践。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>《数字图像处理》：专业选修课，学习图像数字化原理、掌握空域与频域处理方法（如滤波、增强、复原）、理解图像分割与特征提取技术，并熟悉压缩编码原理。通过实践项目运用MATLAB实现算法，培养学生在计算机视觉、医学影像等领域的应用创新能力。&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Links</title><link>https://lyxhomepage.github.io/pages/links/</link><pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate><guid>https://lyxhomepage.github.io/pages/links/</guid><description>&lt;p>Links&lt;/p></description></item><item><title>News</title><link>https://lyxhomepage.github.io/pages/news/</link><pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate><guid>https://lyxhomepage.github.io/pages/news/</guid><description>&lt;ul>
+&lt;li>2024.12，我获CCF C类会议HPCC的杰出论文奖。&lt;/li>
+&lt;li>2024.12，恭喜寿培尧同学（本科）的论文被CCF A类会议AAAI收录。&lt;/li>
+&lt;li>2024.11，恭喜康可均同学（本科）的SCI论文被TCE期刊收录。&lt;/li>
+&lt;li>2024.10，恭喜何泽辉、同学（本科）的获大华杯高校创新赛—技术创新大赛特等奖。&lt;/li>
+&lt;li>2024.07，恭喜康可均、鲁佳艺同学（本科）获大学生服务外包竞赛国家三等奖。&lt;/li>
+&lt;li>2024.07，恭喜寿培尧同学（本科）的SCI论文被TCE期刊收录。&lt;/li>
+&lt;li>2024.05，恭喜张轩豪、马绍林同学（本科）获大学生服务外包竞赛省三等奖。&lt;/li>
+&lt;/ul></description></item><item><title>Project</title><link>https://lyxhomepage.github.io/pages/project/</link><pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate><guid>https://lyxhomepage.github.io/pages/project/</guid><description>&lt;h3 id="科研项目">科研项目&lt;/h3>
+&lt;ul>
+&lt;li>杭州电子科技大学启动基金：《不确定性场景中域泛化行人重识别研究》，主持。&lt;/li>
+&lt;li>国家自然科学基金委员会青年基金项目，《面向开放不确定性场景的跨模态域泛化行人重识别研究》，主持。&lt;/li>
+&lt;li>浙江省重点研发尖兵项目，《面向海量物联感知数据汇聚的大数据分析治理平台》，课题负责人。&lt;/li>
+&lt;li>浙江大华技术股份有限公司横向项目，《物联大数据视觉感知分析–持续学习技术研究》，主持。&lt;/li>
+&lt;li>国家自然科学基金委员会面上项目，基于动态分域区块链架构的车联网跨边缘域高效安全认证技术研究，参与（2/3）。&lt;/li>
+&lt;/ul></description></item><item><title>Publications</title><link>https://lyxhomepage.github.io/pages/publications/</link><pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate><guid>https://lyxhomepage.github.io/pages/publications/</guid><description>&lt;p>在计算机科学领域发表SCI期刊及国际会议论文20余篇，代表作10篇如下：&lt;/p>
 &lt;p>[1] &lt;strong>Yixiu Liu&lt;/strong>, Peiyao Shou, Yaoqi Sun, Chenggang Yan and Zhigao Zheng, Expand, Pool and Confine: Reliably Detaching Salient Objects From the Background[J], IEEE Transactions on Consumer Electronics, doi: 10.1109/TCE.2024.3430354,2024.&lt;/p>
-&lt;p>[2] Fawei Ge, Yunzhou Zhang, Li Wang, &lt;strong>Yixiu Liu&lt;/strong>, Pengju Si, Jinjin Zhang, You Shen, &amp;ldquo;Joint Representation Learning Based on Feature Center Region Diffusion and Edge Radiation for Cross-View Geo-Localization,&amp;rdquo; in IEEE Transactions on Geoscience and Remote Sensing, vol. 63, pp. 1-13, 2025.&lt;/p></description></item><item><title>Share</title><link>https://lyxhomepage.github.io/pages/share/</link><pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate><guid>https://lyxhomepage.github.io/pages/share/</guid><description>&lt;p>share&lt;/p></description></item><item><title>Students</title><link>https://lyxhomepage.github.io/pages/students/</link><pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate><guid>https://lyxhomepage.github.io/pages/students/</guid><description>&lt;p>students&lt;/p></description></item><item><title>Teaching</title><link>https://lyxhomepage.github.io/pages/teaching/</link><pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate><guid>https://lyxhomepage.github.io/pages/teaching/</guid><description>&lt;h3 id="教育经历">教育经历&lt;/h3>
-&lt;p>2018.10-2020.10，加州大学河滨分校，国家公派联合培养&lt;br>
-2016.09-2022.01，东北大学，信息科学与工程学院，模式识别专业，博士研究生&lt;br>
-2012.09-2016.06，东北大学，控制工程学院（秦皇岛），自动化，工学学士&lt;br>&lt;/p></description></item></channel></rss>
+&lt;p>[2] Fawei Ge, Yunzhou Zhang, Li Wang, &lt;strong>Yixiu Liu&lt;/strong>, Pengju Si, Jinjin Zhang, You Shen, &amp;ldquo;Joint Representation Learning Based on Feature Center Region Diffusion and Edge Radiation for Cross-View Geo-Localization,&amp;rdquo; in IEEE Transactions on Geoscience and Remote Sensing, vol. 63, pp. 1-13, 2025.&lt;/p></description></item><item><title>Share</title><link>https://lyxhomepage.github.io/pages/share/</link><pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate><guid>https://lyxhomepage.github.io/pages/share/</guid><description>&lt;p>share&lt;/p></description></item><item><title>Students</title><link>https://lyxhomepage.github.io/pages/students/</link><pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate><guid>https://lyxhomepage.github.io/pages/students/</guid><description>&lt;h3 id="研究生培养">研究生培养&lt;/h3>
+&lt;p>&lt;strong>培养目标&lt;/strong>：研究小组隶属于智能信息处理实验室（IIPL）的人工智能应用与安全课题组，致力于培养科研能力强、思维能力强、工作能力强的研究生。鼓励、倡导发表国际高水平期刊、会议论文，或在重要科研项目中做出核心贡献。&lt;/p>
+&lt;p>&lt;strong>培养现状&lt;/strong>：本课题组致力于为学生提供系统的科研培训、良好的学习环境、浓厚的学习氛围以及充分的实习时间。组内研究课题非常集中、研究方向前沿、显卡资源充足。已发表多篇高水平期刊、会议论文，毕业生去向为上海、江苏、浙江等地的IT大厂、政府部门、高校等。&lt;/p>
+&lt;p>&lt;strong>要求&lt;/strong>：尊敬师长、诚实守信、编程能力强，谦虚好学。有无人机项目实践经验的更佳。&lt;/p>
+&lt;h3 id="heading"> &lt;/h3>
+&lt;h3 id="本科生培养">本科生培养&lt;/h3>
+&lt;p>&lt;strong>培养目标&lt;/strong>：立足于学生的科研兴趣、学业规划，致力于高水平期刊、会议论文，科研比赛。&lt;/p>
+&lt;p>&lt;strong>培养模式&lt;/strong>：系统的基础学习教程、规范的学术指导、有组织的科研比赛。&lt;/p>
+&lt;p>&lt;strong>未来支持&lt;/strong>：GPU计算资源支持、研究生外推、留组支持。&lt;/p>
+&lt;p>&lt;strong>培养成果&lt;/strong>：人均至少1篇SCI/CCF A类会议，多项省级、国家级科研比赛奖项&lt;br>
+出国留学1人，保研2人，直博1人。&lt;/p>
+&lt;p>&lt;strong>要求&lt;/strong>：尊敬师长、诚实守信、编程能力强，谦虚好学。有无人机、智能车等项目实践经验的更佳。&lt;/p></description></item><item><title>Teaching</title><link>https://lyxhomepage.github.io/pages/teaching/</link><pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate><guid>https://lyxhomepage.github.io/pages/teaching/</guid><description>&lt;h3 id="教育经历">教育经历&lt;/h3>
+&lt;ul>
+&lt;li>2014.12，出版书籍《面向灾难救援的目标定位、跟踪和分类》，清华大学出版社&lt;/li>
+&lt;li>2024.12，杭州电子科技大学青年教师教学技能竞赛，三等奖&lt;/li>
+&lt;li>2024.07，中国大学生服务外包创新创业大赛“井盖隐患智能识别”，全国三等奖&lt;/li>
+&lt;li>2024.05，中国大学生服务外包创新创业大赛“新苗迎新平台”，省级三等奖&lt;/li>
+&lt;li>2013.12, 网络空间安全学院青年教师教学技能竞赛，特等奖&lt;/li>
+&lt;/ul></description></item></channel></rss>
