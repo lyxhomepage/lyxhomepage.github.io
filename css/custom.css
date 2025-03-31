@@ -40,7 +40,7 @@
 }
 
 
-.page_publication ul {
+.page_publication ul , .home-cv-content ul{
     padding-left: 2rem
 
 }
