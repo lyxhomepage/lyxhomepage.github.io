@@ -20,7 +20,7 @@
 
 
 
-    <main class="box container">
+    <main class="box container  {{ with .Params.the_page_id}} page_{{ . }} {{ end }}">
         {{ block "main" . }}{{ end }}
     </main>
 
