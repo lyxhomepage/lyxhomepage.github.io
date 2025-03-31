@@ -16,16 +16,27 @@
 }
 
 .home-cv-content{
-
+    padding: 0 4rem;
+}
+.home-cv-content h3 {
+    padding: 0 0 1rem 0;
 }
 .home-cv-content h3{
     margin-top: 5rem;
+}
+
+.homepage-main .name-block {
+    width: 96%;
 }
 
 .page-title-wrap1 {
     display: flex;
     justify-content: space-between;
     align-items: center;
+}
+
+.home-cv-content .row-sep  {
+    border-top: 1px solid #d9d9d9;
 }
 
 /*手机*/
@@ -42,6 +53,11 @@
     .homepage-main .line {
         border-right: none;
         padding-bottom: 3rem;
+    }
+
+
+    .home-cv-content{
+        padding: inherit;
     }
     .home-cv-content .row-sep, .homepage-main .name-block {
         border-top: 3px solid #d9d9d9;
