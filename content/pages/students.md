@@ -31,3 +31,7 @@ draft: false
 
 **要求**：尊敬师长、诚实守信、编程能力强，谦虚好学。有无人机、智能车等项目实践经验的更佳。
 
+
+<div  class=" " >
+          <img src="/images/students.jpg" style="width: 100%;">
+</div>
